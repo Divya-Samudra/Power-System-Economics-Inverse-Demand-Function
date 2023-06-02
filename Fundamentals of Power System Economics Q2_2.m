@@ -1,5 +1,5 @@
 %Program written by Divya M (199031001)
-%Homework-1 of Restructured Power System (EE5054S)
+
 %Fundamentals of Power System Economics by Daniel S % Kirschen & Goran Strbac
 
 clc; clear all; close all;
