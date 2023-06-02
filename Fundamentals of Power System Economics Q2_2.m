@@ -1,4 +1,4 @@
-%Program written by Divya M (199031001)
+%Program written by Divya M 
 
 %Fundamentals of Power System Economics by Daniel S % Kirschen & Goran Strbac
 
